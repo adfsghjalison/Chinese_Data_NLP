@@ -7,7 +7,7 @@
   * some commom charactors
   * collect : zhuyin <=> charactor 
 ```
-import dict_mini from []
+import dict_mini
 dict_mini.homophone('你') # homophone() will get homophones of a character
 ```
 
